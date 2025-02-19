@@ -28,3 +28,10 @@ section#phone{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22.5px;
+    width: 266px;
+    height: 470px;
+}
